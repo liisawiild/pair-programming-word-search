@@ -49,3 +49,5 @@ const wordSearch = (letters, word) => {
 };
 
 module.exports = wordSearch;
+
+@lilyjwhitford was my pair-programming partner! 
